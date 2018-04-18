@@ -1,0 +1,9 @@
+---
+applications:
+- name: ebb2018-hanako
+  buildpack: sdk-for-nodejs
+  path: .
+  command: npm start
+  memory: 256M
+env:
+  NODE_ENV: production

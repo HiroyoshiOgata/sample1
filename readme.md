@@ -1,2 +1,2 @@
-# STT-Watson Assistant-Discovery-TTS sample app :sample1
+# sample1: STT-Watson Assistant-Discovery-TTS sample app
 
